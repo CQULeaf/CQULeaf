@@ -16,7 +16,7 @@
 
 <h2 align="center">💡 A Quote:</h2>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h2 align="center">💻 My Tech Stack:</h2>
 
