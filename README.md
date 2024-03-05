@@ -1,5 +1,5 @@
-<div align="center" style="width: 100%;">
-    <img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%;">
+<div style="display: block; width: 100%; text-align: center;">
+    <img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%; height: auto;">
 </div>
 
 
@@ -19,11 +19,13 @@
 
 - 📫 How to reach me [My Email](mailto:609388896@qq.com)
 
-<h2 align="center">💡 A Quote:</h2>
+<h2 style="text-align: center;">💡 A Quote:</h2>
 
-<a href="https://github.com/piyushsuthar/github-readme-quotes" align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Readme Quotes">
-</a>
+<div style="text-align: center;">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Readme Quotes" style="margin: auto;">
+    </a>
+</div>
 
 
 <h2 align="center">💻 My Tech Stack:</h2>
