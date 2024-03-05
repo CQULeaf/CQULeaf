@@ -1,4 +1,8 @@
-<img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%; height: auto; align: center">
+<div align="center">
+
+  <img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%; height: auto">
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Xuhang Ye</h1>
 
