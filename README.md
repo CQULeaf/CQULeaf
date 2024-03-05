@@ -1,11 +1,8 @@
-<div style="display: block; width: 100%; text-align: center;">
-    <img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%; height: auto;">
-</div>
-
+<img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%; height: auto; align: center">
 
 <h1 align="center">Hi 👋, I'm Xuhang Ye</h1>
 
-<h3 align="center">A passionate CS Student at Chongqing University</h3>
+<h3 align="center">A Passionate CS Student at Chongqing University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cquleaf&label=Profile%20views&color=0e75b6&style=flat" alt="cquleaf" /> </p>
 
