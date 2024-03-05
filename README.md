@@ -19,12 +19,12 @@
 
 - 📫 How to reach me [My Email](mailto:609388896@qq.com)
 
-<h2 style="text-align: center;">💡 A Quote:</h2>
+<h2 align="center">💡 A Quote:</h2>
 
-<div style="text-align: center;">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Readme Quotes" style="margin: auto;">
-    </a>
+<div align="center">
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 
