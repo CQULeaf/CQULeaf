@@ -1,3 +1,9 @@
+<div align="center">
+
+![Hello World, I'm Xuhang Ye!](header.gif)
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Xuhang Ye</h1>
 
 <h3 align="center">A passionate CS Student at Chongqing University</h3>
@@ -16,7 +22,10 @@
 
 <h2 align="center">💡 A Quote:</h2>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<a href="https://github.com/piyushsuthar/github-readme-quotes" align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Readme Quotes">
+</a>
+
 
 <h2 align="center">💻 My Tech Stack:</h2>
 
