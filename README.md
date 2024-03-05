@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width: 100%;">
     <img src="header.gif" alt="Hello World, I'm Xuhang Ye!" style="width: 100%;">
 </div>
 
@@ -11,19 +11,13 @@
 
 <h2 align="center">💖 About Me:</h2>
 
-<div style="display: flex; align-items: center; justify-content: start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>🏘️ I am from <strong>Henan</strong> and studying in <strong>Chongqing</strong></p>
-    <p>🌱 I’m currently learning <strong>main major courses</strong></p>
-    <p>👨‍💻 All of my projects are available at <a href="https://github.com/CQULeaf?tab=repositories">My Repo</a></p>
-    <p>📝 I regularly write blogs on <a href="https://cquleaf.github.io/">My Self-built Website</a></p>
-    <p>📫 How to reach me <a href="mailto:609388896@qq.com">My Email</a></p>
-  </div>
-  <div style="flex: 1;">
-    <img src="Chongqing_Chase.jpg" alt="Chongqing City" style="max-width: 100%;">
-  </div>
-</div>
+- 🌱 I’m currently learning **main major courses**
 
+- 👨‍💻 All of my projects are available at [My Repo](https://github.com/CQULeaf?tab=repositories)
+
+- 📝 I regularly write blogs on [My Self-built Website](https://cquleaf.github.io/)
+
+- 📫 How to reach me [My Email](mailto:609388896@qq.com)
 
 <h2 align="center">💡 A Quote:</h2>
 
