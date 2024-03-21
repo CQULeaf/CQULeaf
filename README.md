@@ -24,8 +24,7 @@
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Sample blog post to learn markdown tips</td><td>https://yexuhang.com/2020-02-28-sample-markdown/</td></tr><tr><td>Flake it till you make it</td><td>https://yexuhang.com/2020-02-26-flake-it-till-you-make-it/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
