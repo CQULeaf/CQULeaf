@@ -20,6 +20,8 @@
 
 - 📫 How to reach me [My Email](mailto:609388896@qq.com)
 
+<h2 align="center">📕 Latest Blog Posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
