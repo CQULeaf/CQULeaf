@@ -1,0 +1,31 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 这里设置为每小时运行一次，你可以根据需要调整
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with latest blog posts
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch blog posts
+        id: blog-posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://yexuhang.com/feed.xml"
+      - name: Update README
+        run: |
+          BLOG_POSTS="${{ steps.blog-posts.outputs.markdown }}"
+          README_CONTENT=$(cat README.md)
+          UPDATED_CONTENT=$(echo "$README_CONTENT" | sed "/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n$BLOG_POSTS\n<!-- BLOG-POST-LIST:END -->")
+          echo "$UPDATED_CONTENT" > README.md
+      - name: Commit and push
+        if: github.ref == 'refs/heads/main' # 只有在 main 分支上运行
+        run: |
+          git config --global user.name 'Xuhang Ye'
+          git config --global user.email '609388896@qq.com'
+          git commit -am "Updated README with the latest blog posts"
+          git push
