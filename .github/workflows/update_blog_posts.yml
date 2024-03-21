@@ -19,3 +19,4 @@ jobs:
         with:
           feed_list: "https://yexuhang.com/feed.xml"
           max_post_count: 3
+          template: "<tr><td>$title</td><td>$url</td></tr>"
