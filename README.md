@@ -23,7 +23,8 @@
 <h2 align="center">📕 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Sample blog post to learn markdown tips](https://yexuhang.com/2020-02-28-sample-markdown/)
+- [Flake it till you make it](https://yexuhang.com/2020-02-26-flake-it-till-you-make-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">💡 A Quote:</h2>
