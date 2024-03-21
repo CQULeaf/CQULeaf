@@ -22,7 +22,7 @@
 
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
