@@ -24,7 +24,7 @@
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Sample blog post to learn markdown tips</td><td>https://yexuhang.com/2020-02-28-sample-markdown/</td></tr><tr><td>Flake it till you make it</td><td>https://yexuhang.com/2020-02-26-flake-it-till-you-make-it/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Learn to Perform a good Code Review</td><td>https://yexuhang.com/2024-07-05-code-review/</td></tr><tr><td>Start from Here &amp; To Be a BDD</td><td>https://yexuhang.com/2024-05-19-my-first-blog/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
