@@ -12,7 +12,7 @@
 
 <h2 align="center">💖 About Me:</h2>
 
-- 🌱 I’m currently learning **main major courses**
+- 🌱 I’m currently doing researching and writing papers, you can view my fruits at [My Google-Scholar](https://scholar.google.com/citations?user=xdeVKGcAAAAJ)
 
 - 👨‍💻 All of my projects are available at [My Repo](https://github.com/CQULeaf?tab=repositories)
 
