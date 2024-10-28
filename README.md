@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My Repo](https://github.com/CQULeaf?tab=repositories)
 
-- 📝 I regularly write blogs on [My Self-built Website](https://cquleaf.github.io/)
+- 📝 I regularly write blogs on [My Self-built Website](https://yexuhang.com)
 
 - 📫 How to reach me [My Email](mailto:cquleaf@yexuhang.com)
 
