@@ -28,13 +28,13 @@
 </table>
 
 
-<!-- <h2 align="center">💡 A Quote:</h2>
+<h2 align="center">💡 A Quote:</h2>
 
 <div align="center">
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div> -->
+</div>
 
 
 <h2 align="center">💻 My Tech Stack:</h2>
