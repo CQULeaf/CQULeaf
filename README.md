@@ -20,7 +20,7 @@
 
 - 📫 **Contact**: Feel free to reach out via [Email](mailto:cquleaf@yexuhang.com) for collaborations or discussions.
 
-- 📖 **Readme**: Want to know more about me? Check out my [Readme](https://yexuhang.com/readme) for a deeper dive into my background, interests, and journey.
+- 📖 **Readme**: Want to know more about me? Check out my [Readme](https://yexuhang.com/aboutme) for a deeper dive into my background, interests, and journey.
 
 - 📄 **Resume**: If you’re interested in collaboration or opportunities, here’s my [Resume](https://yexuhang.com/resume) for your reference.
 
