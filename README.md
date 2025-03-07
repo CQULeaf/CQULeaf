@@ -12,13 +12,12 @@
 
 <h2 align="center">💖 About Me:</h2>
 
-- 🌱 I’m currently doing researching and writing papers, and you can view my fruits at [My Google-Scholar](https://scholar.google.com/citations?user=xdeVKGcAAAAJ)
-
-- 👨‍💻 All of my projects are available at [My Repo](https://github.com/CQULeaf?tab=repositories)
-
-- 📝 I regularly write blogs on [My Self-built Website](https://yexuhang.com)
-
-- 📫 How to reach me [My Email](mailto:cquleaf@yexuhang.com)
+- 🔍 **Research & Writing**: I’m currently immersed in researching and writing academic papers. Check out my work on [Google Scholar](https://scholar.google.com/citations?user=xdeVKGcAAAAJ)!
+- 👨‍💻 **Projects**: Explore my latest projects and contributions on [My Project Card](https://yexuhang.com/projects/).
+- 📝 **Blogging**: I regularly share insights and ideas on [My Personal Website](https://yexuhang.com).
+- 📫 **Contact**: Feel free to reach out via [Email](mailto:cquleaf@yexuhang.com) for collaborations or discussions.
+- 📖 **Readme**: Want to know more about me? Check out my [Readme](https://yexuhang.com/readme) for a deeper dive into my background, interests, and journey.
+- 📄 **Resume**: If you’re interested in collaboration or opportunities, here’s my [Resume](https://yexuhang.com/resume) for your reference.
 
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
