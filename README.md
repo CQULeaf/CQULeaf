@@ -14,11 +14,11 @@
 
 - 🔍 **Research**: I’m currently immersed in researching and writing academic papers. Check out my work on [Google Scholar](https://scholar.google.com/citations?user=xdeVKGcAAAAJ)!
 
-- 👨‍💻 **Projects**: Explore my latest projects and contributions on [My Project Portfolio](https://yexuhang.com/projects/).
+- 👨‍💻 **Projects**: Explore my latest projects and contributions on my [Project Portfolio](https://yexuhang.com/projects/).
 
-- 🤗 **Hugging Face**: Discover my open-source contributions and models on [Hugging Face](https://huggingface.co/cquleaf).
+- 🤗 **Hugging Face**: Discover my open-source contributions and models on my [Hugging Face](https://huggingface.co/cquleaf).
 
-- 📝 **Blogging**: I regularly share insights and ideas on [My Personal Website](https://yexuhang.com).
+- 📝 **Blogging**: I regularly share insights and ideas on my [Personal Website](https://yexuhang.com).
 
 - 🌟 **Another Me**: Want to know more about me? Check out my [Readme](https://yexuhang.com/aboutme) to discover my other side beyond code & tech.
 
