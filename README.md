@@ -16,9 +16,11 @@
 
 - 👨‍💻 **Projects**: Explore my latest projects and contributions on [My Project Portfolio](https://yexuhang.com/projects/).
 
+- 🤗 **Hugging Face**: Discover my open-source contributions and models on [Hugging Face](https://huggingface.co/cquleaf).
+
 - 📝 **Blogging**: I regularly share insights and ideas on [My Personal Website](https://yexuhang.com).
 
-- 📖 **Readme**: Want to know more about me? Check out my [Readme](https://yexuhang.com/aboutme) to discover my other side beyond code & tech.
+- 🌟 **Another Me**: Want to know more about me? Check out my [Readme](https://yexuhang.com/aboutme) to discover my other side beyond code & tech.
 
 - 📄 **Resume**: If you’re interested in collaboration or opportunities, here’s my [Resume](https://yexuhang.com/resume) for your reference.
 
