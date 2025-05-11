@@ -12,20 +12,17 @@
 
 <h2 align="center">💖 About Me:</h2>
 
-- 🔍 **Research**: I’m currently immersed in researching and writing academic papers. Check out my work on [Google Scholar](https://scholar.google.com/citations?user=xdeVKGcAAAAJ)!
-
-- 👨‍💻 **Projects**: Explore my latest projects and contributions on my [Project Portfolio](https://yexuhang.com/projects/).
-
-- 🤗 **Hugging Face**: Discover my open-source contributions and models on my [Hugging Face](https://huggingface.co/cquleaf).
+- 👨‍💻 **Projects**: Explore my projects and contributions on my [Project Portfolio](https://yexuhang.com/projects/).
 
 - 📝 **Blogging**: I regularly share insights and ideas on my [Personal Website](https://yexuhang.com).
 
 - 🌟 **Another Me**: Want to know more about me? Check out my [Readme](https://yexuhang.com/aboutme) to discover my other side beyond code & tech.
 
+- 🤗 **Hugging Face**: Discover my open-source contributions and models on my [Hugging Face](https://huggingface.co/cquleaf).
+
 - 📄 **Resume**: If you’re interested in collaboration or opportunities, here’s my [Resume](https://yexuhang.com/resume) for your reference.
 
 - 📫 **Contact**: Feel free to reach out via [Email](mailto:cquleaf@yexuhang.com) for collaborations or discussions.
-
 
 <h2 align="center">📕 Latest Blog Posts:</h2>
 
