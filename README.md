@@ -28,7 +28,7 @@
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Mastering `std::stringstream` in C++ for Easy String Manipulation</td><td>https://yexuhang.com/2024-10-13-master-sstream/</td></tr><tr><td>Setting Up SSH Keys for GitHub Authentication</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><tr><td>Learn to Perform a good Code Review</td><td>https://yexuhang.com/2024-07-05-code-review/</td></tr><tr><td>Start from Here &amp; To Be a BDD</td><td>https://yexuhang.com/2024-05-19-my-first-blog/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Setting Up a Proxy for the Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Mastering `std::stringstream` in C++ for Easy String Manipulation</td><td>https://yexuhang.com/2024-10-13-master-sstream/</td></tr><tr><td>Setting Up SSH Keys for GitHub Authentication</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><tr><td>Learn to Perform a good Code Review</td><td>https://yexuhang.com/2024-07-05-code-review/</td></tr><tr><td>Start from Here &amp; To Be a BDD</td><td>https://yexuhang.com/2024-05-19-my-first-blog/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
