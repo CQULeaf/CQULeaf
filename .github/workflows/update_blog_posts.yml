@@ -25,4 +25,5 @@ jobs:
           feed_list: "https://yexuhang.com/feed.xml"
           max_post_count: 5
           date_format: "mmm d, yyyy"
+          item_exec: "if (post.url.includes('/zh/')) post = null;"
           template: "<tr><td>$title</td><td>$url</td></tr>"
