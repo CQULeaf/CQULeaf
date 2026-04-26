@@ -43,9 +43,44 @@
 
 <h2 align="center">💻 My Tech Stack:</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,css,docker,flutter,git,html,java,js,jekyll,linux,matlab,mysql,nginx,nodejs,opencv,pandas,postman,py,pytorch,sass,sklearn,seaborn,spring,tailwind,tensorflow,ts,vue&theme=dark&perline=15" alt="My Tech Stack" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="55"><a href="https://azure.microsoft.com/"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="45" height="45" alt="Azure" /></a></td>
+    <td align="center" width="55"><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="45" height="45" alt="Bootstrap" /></a></td>
+    <td align="center" width="55"><a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" height="45" alt="C" /></a></td>
+    <td align="center" width="55"><a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" height="45" alt="C++" /></a></td>
+    <td align="center" width="55"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="45" height="45" alt="CSS" /></a></td>
+    <td align="center" width="55"><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" height="45" alt="Docker" /></a></td>
+    <td align="center" width="55"><a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="45" height="45" alt="Flutter" /></a></td>
+    <td align="center" width="55"><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" height="45" alt="Git" /></a></td>
+    <td align="center" width="55"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="45" height="45" alt="HTML" /></a></td>
+    <td align="center" width="55"><a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" height="45" alt="Java" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="55"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="45" height="45" alt="JavaScript" /></a></td>
+    <td align="center" width="55"><a href="https://jekyllrb.com/"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="45" height="45" alt="Jekyll" /></a></td>
+    <td align="center" width="55"><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45" height="45" alt="Linux" /></a></td>
+    <td align="center" width="55"><a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="45" height="45" alt="MATLAB" /></a></td>
+    <td align="center" width="55"><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" height="45" alt="MySQL" /></a></td>
+    <td align="center" width="55"><a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="45" height="45" alt="NGINX" /></a></td>
+    <td align="center" width="55"><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="45" height="45" alt="Node.js" /></a></td>
+    <td align="center" width="55"><a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="45" height="45" alt="OpenCV" /></a></td>
+    <td align="center" width="55"><a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" /></a></td>
+    <td align="center" width="55"><a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="45" height="45" alt="Postman" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="55"><a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="45" height="45" alt="Python" /></a></td>
+    <td align="center" width="55"><a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="45" height="45" alt="PyTorch" /></a></td>
+    <td align="center" width="55"><a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass&theme=dark" width="45" height="45" alt="Sass" /></a></td>
+    <td align="center" width="55"><a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="45" height="45" alt="scikit-learn" /></a></td>
+    <td align="center" width="55"><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="seaborn" /></a></td>
+    <td align="center" width="55"><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45" height="45" alt="Spring" /></a></td>
+    <td align="center" width="55"><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" height="45" alt="Tailwind CSS" /></a></td>
+    <td align="center" width="55"><a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" height="45" alt="TensorFlow" /></a></td>
+    <td align="center" width="55"><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45" height="45" alt="TypeScript" /></a></td>
+    <td align="center" width="55"><a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="45" height="45" alt="Vue" /></a></td>
+  </tr>
+</table>
 
 <h2 align="center">🏆 My Stats:</h2>
 
