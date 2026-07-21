@@ -85,12 +85,12 @@
 <h2 align="center">🏆 My Stats:</h2>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=cquleaf&theme=dark&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Profile Trophy" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=cquleaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Profile Trophy" /></a>
 </p>
 
 <p align="center">
-    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=cquleaf&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=cquleaf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=cquleaf&layout=compact&langs_count=8&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="Most Used Languages" />
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=cquleaf&show_icons=true&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquleaf&theme=dark" alt="cquleaf" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cquleaf&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" /></p>
