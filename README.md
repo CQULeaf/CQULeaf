@@ -88,10 +88,9 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=cquleaf&theme=dark&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Profile Trophy" /></a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cquleaf&show_icons=true&locale=en&layout=compact&theme=dark" alt="cquleaf" />
+<p align="center">
+    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=cquleaf&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+    <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=cquleaf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cquleaf&show_icons=true&locale=en&theme=dark" alt="cquleaf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cquleaf&theme=dark" alt="cquleaf" /></p>
