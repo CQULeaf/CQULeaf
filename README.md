@@ -93,4 +93,4 @@
     <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=cquleaf&show_icons=true&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cquleaf&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Streak" /></p>
+<p align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></p>
