@@ -28,7 +28,7 @@
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>The Codex Skills I Actually Recommend Right Now</td><td>https://yexuhang.com/2026-04-02-codex-skills-i-recommend/</td></tr><tr><td>Setting Up a Proxy for the Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Mastering `std::stringstream` in C++ for Easy String Manipulation</td><td>https://yexuhang.com/2024-10-13-master-sstream/</td></tr><tr><td>Setting Up SSH Keys for GitHub Authentication</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><tr><td>Learn to Perform a good Code Review</td><td>https://yexuhang.com/2024-07-05-code-review/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>How I Get the Most Out of Codex as an Agent</td><td>https://yexuhang.com/2026-08-24-getting-the-most-out-of-codex-agent/</td></tr><tr><td>The Codex Skills I Recommend Right Now</td><td>https://yexuhang.com/2026-04-02-codex-skills-i-recommend/</td></tr><tr><td>Setting Up a Proxy for the Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Mastering `std::stringstream` in C++ for Easy String Manipulation</td><td>https://yexuhang.com/2024-10-13-master-sstream/</td></tr><tr><td>Setting Up SSH Keys for GitHub Authentication</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
