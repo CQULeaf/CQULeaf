@@ -85,7 +85,7 @@
 <h2 align="center">🏆 My Stats:</h2>
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=cquleaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Profile Trophy" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=cquleaf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Profile Trophy" /></a>
 </p>
 
 <p align="center">
