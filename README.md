@@ -28,7 +28,7 @@
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>How I Organize Context and Tools in Codex</td><td>https://yexuhang.com/2026-08-24-getting-the-most-out-of-codex-agent/</td></tr><tr><td>The Codex Skills I Recommend Right Now</td><td>https://yexuhang.com/2026-04-02-codex-skills-i-recommend/</td></tr><tr><td>Setting Up a V2Ray Proxy Client on a Linux Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Setting Up GitHub SSH Authentication on Windows</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><tr><td>An Introduction to Code Review</td><td>https://yexuhang.com/2024-07-05-code-review/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Giving My Linux AI Agent Its Own Desktop</td><td>https://yexuhang.com/2026-09-08-linux-computer-use-isolated-desktop/</td></tr><tr><td>How I Organize Context and Tools in Codex</td><td>https://yexuhang.com/2026-08-24-getting-the-most-out-of-codex-agent/</td></tr><tr><td>The Codex Skills I Recommend Right Now</td><td>https://yexuhang.com/2026-04-02-codex-skills-i-recommend/</td></tr><tr><td>Setting Up a V2Ray Proxy Client on a Linux Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Setting Up GitHub SSH Authentication on Windows</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
