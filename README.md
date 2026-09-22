@@ -28,7 +28,7 @@
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Giving My Linux AI Agent Its Own Desktop</td><td>https://yexuhang.com/2026-09-08-linux-computer-use-isolated-desktop/</td></tr><tr><td>How I Organize Context and Tools in Codex</td><td>https://yexuhang.com/2026-08-24-getting-the-most-out-of-codex-agent/</td></tr><tr><td>The Codex Skills I Recommend Right Now</td><td>https://yexuhang.com/2026-04-02-codex-skills-i-recommend/</td></tr><tr><td>Setting Up a V2Ray Proxy Client on a Linux Cloud Server</td><td>https://yexuhang.com/2026-01-07-proxy-for-server/</td></tr><tr><td>Setting Up GitHub SSH Authentication on Windows</td><td>https://yexuhang.com/2024-10-10-ssh-keys-for-auth/</td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Why I Increasingly Prefer Working on Linux</td><td>https://yexuhang.com/2026-09-21-linux-desktop-ai-agents/</td></tr><tr><td>Jev and Fast and Slow Thinking</td><td>https://yexuhang.com/2026-09-21-jev-and-fast-slow-thinking/</td></tr><tr><td>Understanding Convex Sets, Combinations, and Hulls</td><td>https://yexuhang.com/2026-09-21-convex-sets-combinations-hulls/</td></tr><tr><td>BrowserSkill Lets Your AI Agent Use Your Signed-In Browser</td><td>https://yexuhang.com/2026-09-21-browserskill-codex-browser-workflow/</td></tr><tr><td>Giving My Linux AI Agent Its Own Desktop</td><td>https://yexuhang.com/2026-09-08-linux-computer-use-isolated-desktop/</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 
