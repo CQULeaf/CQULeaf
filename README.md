@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-    <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=cquleaf&layout=compact&langs_count=8&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="Most Used Languages" />
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=cquleaf&layout=compact&langs_count=8&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="Most Used Languages" />
     <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=cquleaf&show_icons=true&card_width=467&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
 </p>
 
